@@ -8,10 +8,10 @@ A basic theme for [Obsidian](https://obsidian.md), that (for now) only changes y
 - It only affects your preview mode right now, the rest of the app will look like the default obsidian
 - I am not death_au
 
-## To install
+## Installation
 Just download the obsidian.css file and drop it into your vault. Make sure custom themes are turned on
 
-### Alternatively:
+#### Alternatively:
 - If you want to keep your existing theme but use this for preview, and want to be a little hacky, you should be able to copy and paste all of the contents of this obsidian.css into the end of yours existing one, and it might just work, since it should only affect your preview mode.
 
 ## In the future
