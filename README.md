@@ -14,6 +14,6 @@ Just download the obsidian.css file and drop it into your vault. Make sure custo
 
 ## In the future:
 - When I have time I plan on making a dark version of preview (GitHub doesnt have an official dark version)
-- Also plan to fork this into two different projects:
-	1. A proper css add-on version that can be pasted to the end of any theme in order so that it only affects preview
-	2. A full theme that properly responds to dark/light mode and some "github" inspired interface stylings
+- Also plan to split this into two different versions:
+	1. A proper css add-on version that can be pasted to the end of any theme in order so that it overrides and only affects preview
+	2. A full theme that properly responds to dark/light mode and some "github inspired" interface stylings
