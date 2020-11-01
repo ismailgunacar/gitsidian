@@ -1,7 +1,7 @@
 # Gitsidian theme
-A basic theme for [obsidian](https://obsidian.md), that (for now) only changes your preview mode to look more like GitHub markdown styles
+A basic theme for [Obsidian](https://obsidian.md), that (for now) only changes your preview mode to look more like GitHub markdown styles
 
-![[showcase.png]]
+![showcase](showcase.png)
 
 ## Expectations:
 - This was hacked up in a couple hours
